@@ -306,7 +306,7 @@ section#causes .row p {
 }
 
 .orange-button {
-    margin: 20px;
+    margin: 0px;
     background: #c42a33;
     border: 2px solid #c42a33;
     border-radius: 7px;
@@ -386,7 +386,7 @@ section#causes .row p {
     font-family: 'antonioregular';
     text-transform: uppercase;
     line-height: 85px;
-    color: #1e1613;
+    color: #0C5B5B;
     padding-top: 10px;
 }
 
